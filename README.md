@@ -1,2 +1,2 @@
 # Luca Chierchia
-A breve elaborerò una piccola introduzione...
+Bip-bip-bip
