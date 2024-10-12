@@ -3,11 +3,11 @@
 Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tecnologia e sviluppo software. Attualmente sto lavorando su diversi progetti legati alla programmazione e allo sviluppo web, con un forte interesse per la creazione di applicazioni scalabili e performanti.
 
 ### 🔧 Competenze tecniche:
-- **Linguaggi di programmazione**: Java, HTML, CSS, JavaScript
+- **Linguaggi di programmazione**: Java, HTML, CSS, JavaScript,PHP
 - **Framework**: Bootstrap, Tailwind (in fase di apprendimento)
 - **Database**: SQL, MySQL (principi base)
 - **Versionamento**: Git, GitHub
-- **Ambienti di sviluppo**: Eclipse, IntelliJ IDEA
+- **Ambienti di sviluppo**: Eclipse, VS Code
 
 ### 🌱 Attualmente sto imparando:
 - Migliorare le mie capacità con framework CSS come Tailwind e Bootstrap.
