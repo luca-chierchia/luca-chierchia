@@ -15,7 +15,7 @@ Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tec
 - Sviluppare applicazioni web utilizzando JavaScript e integrazioni back-end.
 
 ### 🚀 Progetti attuali:
-- **Gestore di Rubrica** 🛠️
+- **Gestore di Rubrica** 🛠️[Link](https://github.com/luca-chierchia/Rubrica)
   - Un'applicazione Java per la gestione dei contatti personali, con funzionalità di aggiunta, modifica, rimozione e ricerca di contatti. Utilizza una collezione per memorizzare i dati e supporta file I/O per la persistenza.
   - **Linguaggio utilizzato**: Java
 
