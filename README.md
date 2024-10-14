@@ -4,7 +4,7 @@ Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tec
 
 ### 🔧 Competenze tecniche:
 - **Linguaggi di programmazione**: Java, JavaScript,PHP
-- **Markup**:HTML, CSS
+- **Markup**: HTML, CSS
 - **Framework**: Bootstrap, Tailwind (in fase di apprendimento)
 - **Database**: SQL, MySQL (principi base)
 - **Versionamento**: Git, GitHub
