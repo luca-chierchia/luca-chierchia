@@ -20,15 +20,17 @@ Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tec
   - Un'applicazione Java per la gestione dei contatti personali, con funzionalità di aggiunta, modifica, rimozione e ricerca di contatti. Utilizza una collezione per memorizzare i dati e supporta file I/O per la persistenza.
   - **Linguaggio utilizzato**: Java
 
+- **Gestore di Biblioteca** 🛠️[Link](https://github.com/luca-chierchia/Gestore-Biblioteca)
+  - Un sistema per gestire il prestito e la restituzione di libri in una biblioteca. Include la gestione di cataloghi, utenti e registrazioni di prestiti. Il progetto mira a implementare strutture dati complesse e funzionalità di gestione file.
+  - **Linguaggio utilizzato**: Java
+
 ### 💡 Progetti in fase di sviluppo:
 
 - **Gestore di Task** 🚧
   - Un'applicazione Java per gestire attività personali, dove è possibile aggiungere, completare e rimuovere task. Questo progetto si concentrerà sull'uso delle collezioni e del file I/O per la persistenza.
   - **Linguaggio utilizzato**: Java
 
-- **Gestore di Biblioteca** 🚧
-  - Un sistema per gestire il prestito e la restituzione di libri in una biblioteca. Include la gestione di cataloghi, utenti e registrazioni di prestiti. Il progetto mira a implementare strutture dati complesse e funzionalità di gestione file.
-  - **Linguaggio utilizzato**: Java
+
 
 - **Sistema di Prenotazione** 🚧
   - Un sistema per prenotare risorse (come stanze o attrezzature), con funzionalità di ricerca e gestione delle prenotazioni. Sarà un progetto interattivo che utilizza Java e i suoi concetti avanzati.
