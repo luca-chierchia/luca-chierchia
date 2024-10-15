@@ -1,4 +1,4 @@
-## 👋 Ciao! Sono Luca Chierchia.
+## 👋 Ciao! Sono Luca Chierchia
 
 Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tecnologia e sviluppo software. Attualmente sto lavorando su diversi progetti legati alla programmazione e allo sviluppo web, con un forte interesse per la creazione di applicazioni scalabili e performanti.
 
