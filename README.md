@@ -6,7 +6,7 @@ Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tec
 - **Linguaggi di programmazione**: Java, JavaScript,PHP
 - **Markup**: HTML, CSS
 - **Framework**: Bootstrap, Tailwind (in fase di apprendimento)
-- **Database**: SQL, MySQL (principi base)
+- **Database**: MySQL (principi base)
 - **Versionamento**: Git, GitHub
 - **Ambienti di sviluppo**: Eclipse, VS Code
 
