@@ -22,7 +22,7 @@ Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tec
 
 - **Gestore di Biblioteca** 🛠️[Link](https://github.com/luca-chierchia/Gestore-Biblioteca)
   - Un sistema per gestire il prestito e la restituzione di libri in una biblioteca. Include la gestione di cataloghi, utenti e registrazioni di prestiti. Il progetto mira a implementare strutture dati complesse e funzionalità di gestione file.
-  - **Linguaggio utilizzato**: Java.
+  - **Linguaggio utilizzato**: Java
 
 ### 💡 Progetti in fase di sviluppo:
 
