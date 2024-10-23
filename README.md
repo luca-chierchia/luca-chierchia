@@ -2,7 +2,7 @@
 
 Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tecnologia e sviluppo software. Attualmente sto lavorando su diversi progetti legati alla programmazione e allo sviluppo web, con un forte interesse per la creazione di applicazioni scalabili e performanti.
 
-### 🔧 Competenze tecniche:
+### 🔧 Competenze tecniche:.
 - **Linguaggi di programmazione**: Java, JavaScript,PHP
 - **Markup**: HTML, CSS
 - **Framework**: Bootstrap, Tailwind (in fase di apprendimento)
