@@ -31,13 +31,8 @@ Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tec
   - **Linguaggio utilizzato**: Java
 
 
-
 - **Sistema di Prenotazione** 🚧
   - Un sistema per prenotare risorse (come stanze o attrezzature), con funzionalità di ricerca e gestione delle prenotazioni. Sarà un progetto interattivo che utilizza Java e i suoi concetti avanzati.
-  - **Linguaggio utilizzato**: Java
-
-- **Sistema di Fatturazione** 🚧
-  - Un software di fatturazione semplice, che consente di gestire clienti, prodotti e fatture. Questo progetto si concentra sull'integrazione di Java con la gestione di file e l'elaborazione dei dati.
   - **Linguaggio utilizzato**: Java
     
 - **Portfolio personale** 🚧
@@ -59,3 +54,4 @@ Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tec
 
 Sono sempre alla ricerca di nuove opportunità di apprendimento e collaborazione!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luca-chierchia&show_icons=true&theme=transparent)
