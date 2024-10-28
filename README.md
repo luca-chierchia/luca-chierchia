@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luca-chierchia&show_icons=true&theme=dracula)
 ## 👋 Ciao! Sono Luca Chierchia
 
 Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tecnologia e sviluppo software. Attualmente sto lavorando su diversi progetti legati alla programmazione e allo sviluppo web, con un forte interesse per la creazione di applicazioni scalabili e performanti.
@@ -54,5 +53,6 @@ Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tec
 - LinkedIn: [Luca Chierchia](https://www.linkedin.com/in/luca-chierchia-7a5226251/)
 
 Sono sempre alla ricerca di nuove opportunità di apprendimento e collaborazione!
-
+![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=luca-chierchia&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-chierchia&layout=compact&theme=dracula)
 
