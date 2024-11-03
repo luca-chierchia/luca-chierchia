@@ -16,6 +16,11 @@ Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tec
 - Sviluppare applicazioni web utilizzando JavaScript e integrazioni back-end.
 
 ### 🚀 Progetti attuali:
+- **Portfolio personale** 🛠️[Link](https://github.com/luca-chierchia/CMS)
+  - Un sito web personale per mostrare i miei progetti e le mie competenze. Questo progetto è in fase di sviluppo e utilizza **HTML**, **CSS**, e **JavaScript** per il front-end. Sto esplorando **Tailwind** e **Bootstrap** per migliorare     
+    l'interfaccia utente.
+  - **Linguaggi utilizzati**: HTML, CSS(Bootstrap), JavaScript, PHP
+
 - **Gestore di Rubrica** 🛠️[Link](https://github.com/luca-chierchia/Rubrica)
   - Un'applicazione Java per la gestione dei contatti personali, con funzionalità di aggiunta, modifica, rimozione e ricerca di contatti. Utilizza una collezione per memorizzare i dati e supporta file I/O per la persistenza.
   - **Linguaggio utilizzato**: Java
@@ -35,10 +40,6 @@ Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tec
   - Un sistema per prenotare risorse (come stanze o attrezzature), con funzionalità di ricerca e gestione delle prenotazioni. Sarà un progetto interattivo che utilizza Java e i suoi concetti avanzati.
   - **Linguaggio utilizzato**: Java
     
-- **Portfolio personale** 🚧
-  - Un sito web personale per mostrare i miei progetti e le mie competenze. Questo progetto è in fase di sviluppo e utilizza **HTML**, **CSS**, e **JavaScript** per il front-end. Sto esplorando **Tailwind** e **Bootstrap** per migliorare l'interfaccia utente.
-  - **Linguaggi utilizzati**: HTML, CSS, JavaScript
-
 - **Blog personale** 🚧
   - Un blog costruito da zero, senza l'uso di piattaforme CMS come WordPress. Sto sperimentando con framework CSS come Tailwind per creare un design responsivo e moderno.
   - **Linguaggi utilizzati**: HTML, CSS, JavaScript
