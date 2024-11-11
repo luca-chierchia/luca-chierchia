@@ -16,7 +16,6 @@ Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tec
 - Sviluppare applicazioni web utilizzando JavaScript e integrazioni back-end.
 
 ### 🚀 Progetti attuali:
-fdf
 
 - **Portfolio personale** 🛠️[Link](https://github.com/luca-chierchia/CMS)
   - Un sito web personale per mostrare i miei progetti e le mie competenze. Questo progetto è in fase di sviluppo e utilizza **HTML**, **CSS**, e **JavaScript** per il front-end. Sto esplorando **Tailwind** e **Bootstrap** per migliorare     
