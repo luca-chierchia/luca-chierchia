@@ -8,7 +8,7 @@ Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tec
 - **Framework**: Bootstrap, Tailwind (in fase di apprendimento)
 - **Database**: MySQL (principi base)
 - **Versionamento**: Git, GitHub
-- **Ambienti di sviluppo**: Eclipse, VS Code
+- **Ambienti di sviluppo**: Eclipse, VS Code, PHP Storm
 
 ### 🌱 Attualmente sto imparando:
 - Migliorare le mie capacità con framework CSS come Tailwind e Bootstrap.
@@ -31,15 +31,6 @@ Sono uno studente dell'**Università degli Studi di Parma**, appassionato di tec
   - **Linguaggio utilizzato**: Java
 
 ### 💡 Progetti in fase di sviluppo:
-
-- **Gestore di Task** 🚧
-  - Un'applicazione Java per gestire attività personali, dove è possibile aggiungere, completare e rimuovere task. Questo progetto si concentrerà sull'uso delle collezioni e del file I/O per la persistenza.
-  - **Linguaggio utilizzato**: Java
-
-
-- **Sistema di Prenotazione** 🚧
-  - Un sistema per prenotare risorse (come stanze o attrezzature), con funzionalità di ricerca e gestione delle prenotazioni. Sarà un progetto interattivo che utilizza Java e i suoi concetti avanzati.
-  - **Linguaggio utilizzato**: Java
     
 - **Blog personale** 🚧
   - Un blog costruito da zero, senza l'uso di piattaforme CMS come WordPress. Sto sperimentando con framework CSS come Tailwind per creare un design responsivo e moderno.
